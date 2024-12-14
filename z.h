@@ -1,0 +1,35 @@
+// C keywords
+#define ganzzahl int
+#define buchstabe char
+#define kommazahl float
+#define hauptfunktion main
+#define konstante const
+#define vorzeichenlos unsigned
+#define lang long
+#define nichts void
+#define für for
+#define während while
+#define rückgabe return
+#define auswahl switch
+#define fall case 
+#define typdefinierung typedef
+#define struktur struct
+#define vereinigung union 
+#define abbruch break
+#define weiter continue
+#define normalfall default 
+#define tu do 
+#define falls if
+#define ansonsten else 
+#define enumeration enum 
+#define gehezu goto 
+#define mit_vorzeichen signed 
+#define größevon sizeof 
+#define statisch static 
+#define volatil volatile 
+#define kurz short 
+#define doppel double 
+#define automatisch auto 
+
+// stdio.h
+#define ausgabef printf 
